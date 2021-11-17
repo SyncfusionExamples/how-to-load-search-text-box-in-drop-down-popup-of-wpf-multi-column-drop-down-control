@@ -261,5 +261,7 @@ This example illustrates how to load Search TextBox in DropDown Popup of [WPF Mu
 
 Take a moment to peruse the [WPF MultiColumnDropDown - Load custom control in drop-down](https://help.syncfusion.com/wpf/multi-column-dropdown/selection#load-custom-control-in-drop-down) documentation, where you can find about load custom control in drop-down with code examples.
 
+KB article - [How to load Search TextBox in DropDown Popup of WPF MultiColumnDropDownControl (SfMultiColumnDropDownControl](https://www.syncfusion.com/kb/12651/how-to-load-search-textbox-in-dropdown-popup-of-wpf-multicolumndropdowncontrol)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
